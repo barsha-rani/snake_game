@@ -1,2 +1,2 @@
 # snake_game
-This repo mimics the classic snake game available in old mobile handsets
+This repo contains the classic snake game which was available in old mobile handsets. 
